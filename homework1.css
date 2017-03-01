@@ -1,0 +1,96 @@
+/* BASE STYLES --------*/
+body {
+  background: #ffffff;
+  color: #967878;
+  font-size: 15px;
+}
+h1 {
+  color: #ffffff;
+  font-size: 50px;
+}
+h2 {
+  color: #503226;
+  font-size: 26px;
+}
+h3 {
+  color: #503226;
+  font-size: 18px;
+}
+/* COMPONENT STYLES --------*/
+/* HEADER --*/
+.header {
+  /* We'll add more styles here later */
+  height: 150px;
+}
+
+.header img{
+  width: 50px;
+}
+
+.headerStay {
+  display: inline-block;
+  width: 10%
+}
+
+.nav{
+  display: inline-block;
+  width: 80%
+}
+
+.navLeft {
+  float: left;
+}
+
+.navRight {
+  float: right;
+}
+.navLink {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.product-spotlight {
+  background: #FF512F;
+  color: #ffffff;
+  height: 400px;
+}
+
+.product-spotlight {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 16px
+  font-style: italic;
+}
+
+.bannerSection{
+  float: left;
+  display: inline-block;
+  width: 40%;
+  padding: 10px;
+}
+
+.bannerSection img{
+  width: 300px;
+  display: block;
+  margin: 10px auto;
+}
+
+.boxed {
+  border: 1px solid white;
+}
+
+.product-details {
+  /* We'll add more styles here later */
+}
+.more-products {
+  background: #FF512F;
+}
+.more-products h2 {
+  background: #ffffff;
+}
+.more-products h3 {
+  color: #ffffff;
+}
+footer {
+  /* We'll add more styles here later */
+}
